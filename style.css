@@ -10,11 +10,11 @@
 
 /* basic elements */
 html {
-	margin: 0;
+	margin: 5;
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font: 80% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
 	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
@@ -22,12 +22,12 @@ body {
 	padding: 0;
 	}
 p { 
-	margin-top: 0; 
+	margin-top: 2; 
 	text-align: justify;
 	}
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
-	letter-spacing: 1px; 
+	letter-spacing: 2px; 
 	margin-bottom: 0; 
 	color: #7D775C;
 	}
